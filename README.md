@@ -8,6 +8,8 @@ YounghwiKim_Projects <br/>
 코드: https://github.com/BenzhaminKim/Everywhere_Java (Java Version)
 코드: https://github.com/BenzhaminKim/RoomsEverywhere (C# Version)
 
+<h1>오픈 소스 기여</h1>
+https://github.com/covid19india/covid19india-react/pull/2083
 
 <h1>프로젝트 2: 개인 블로그형 홈페이지 </h1> <br/>
 <p>사용스택: Python, Django, HTML5, CSS3, JavasScript, Bootstrap, JQuery, Heroku </p>
